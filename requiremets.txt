@@ -1,0 +1,13 @@
+# Core Framework
+streamlit==1.32.0
+
+# Inteligencia Artificial
+tensorflow==2.19.0
+numpy==1.26.4
+
+# Procesamiento de Imagen y Datos
+Pillow==10.2.0
+requests==2.31.0
+
+# Visualización
+matplotlib==3.8.3
